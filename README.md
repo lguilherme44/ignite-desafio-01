@@ -1,11 +1,10 @@
 # 💻 Sobre o desafio
 
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+Nesse desafio, o objetivo foi fazer algumas alterações na aplicação de atividades a fazer (Todo List), para treinar um pouco mais sobre manipulação do estado no React, que foi visto no capitulo 01 do Ignite.
 
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
-
+Features
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
-A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
+Entregue 🚀🚀🚀
